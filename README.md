@@ -12,3 +12,11 @@ Para instalar as dependencias necessárias para executar o front-end corretament
 Após iniciar a API do back-end na porta 8000 é necessário executar `yarn start` ou `npm start`.
 
 Caso precise de executar a API em uma porta diferente da 8000 é necessário alterar o atributo API_URL= no arquivo .env.
+
+## Login
+
+As credenciais necessárias para se autenticar na aplicação são as seguintes:
+| Usuário          | Senha                |
+|------------------|----------------------|
+| admin            | 123456               |
+| surittec         | 123456               |
