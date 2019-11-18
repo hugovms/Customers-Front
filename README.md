@@ -16,7 +16,8 @@ Caso precise de executar a API em uma porta diferente da 8000 é necessário alt
 ## Login
 
 As credenciais necessárias para se autenticar na aplicação são as seguintes:
-| Usuário          | Senha                |
-|------------------|----------------------|
-| admin            | 123456               |
-| surittec         | 123456               |
+| Usuário   |  Senha  |
+| --------- | ------- |
+|  admin    |  123456 |
+|  surittec |  123456 |
+
